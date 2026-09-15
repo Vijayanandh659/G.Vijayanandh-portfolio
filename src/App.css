@@ -428,36 +428,7 @@ body {
   border-radius: 8px;
 }
 
-/* =========================
-   MOBILE
-========================= */
 
-@media (max-width: 700px) {
-
-  #contact {
-    padding: 60px 20px;
-  }
-
-  #contact .contact-container {
-    flex-direction: column;
-    gap: 30px;
-  }
-
-  #contact .contact-info {
-    width: 100%;
-    text-align: center;
-  }
-
-  #contact .contact-form {
-    width: 100%;
-    max-width: 100%;
-    padding: 20px;
-  }
-
-  #contact .section-title {
-    font-size: 32px;
-  }
-}
 
 footer {
   padding: 25px;
@@ -882,86 +853,32 @@ footer {
 
 }
 /* =========================
-   CONTACT - MOBILE
+   MOBILE
 ========================= */
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
 
   #contact {
-    width: 100%;
-    padding: 60px 15px;
+    padding: 60px 20px;
   }
 
-  #contact .section-title {
-    font-size: 30px;
-    margin-bottom: 30px;
-  }
-
-  /* Contact container */
   #contact .contact-container {
-    width: 100%;
-    display: flex;
     flex-direction: column;
     gap: 30px;
   }
 
-  /* Contact information */
   #contact .contact-info {
     width: 100%;
     text-align: center;
   }
 
-  #contact .contact-info h3 {
-    font-size: 24px;
-    margin-bottom: 15px;
-  }
-
-  #contact .contact-info p {
-    font-size: 14px;
-    line-height: 1.7;
-    word-break: break-word;
-  }
-
-  /* Form */
   #contact .contact-form {
     width: 100%;
     max-width: 100%;
     padding: 20px;
-
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-
-    border-radius: 12px;
   }
 
-  /* Input */
-  #contact .contact-form input {
-    width: 100%;
-    padding: 13px;
-    font-size: 15px;
-  }
-
-  /* Message */
-  #contact .contact-form textarea {
-    width: 100%;
-    min-height: 130px;
-    padding: 13px;
-    font-size: 15px;
-  }
-
-  /* Send button */
-  #contact .contact-form button {
-    width: 100%;
-    padding: 13px;
-    font-size: 15px;
-  }
-
-  /* Success / Error */
-  #contact .success-message,
-  #contact .error-message {
-    width: 100%;
-    font-size: 14px;
-    padding: 12px;
+  #contact .section-title {
+    font-size: 32px;
   }
 }
