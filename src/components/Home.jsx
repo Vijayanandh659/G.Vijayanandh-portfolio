@@ -52,14 +52,9 @@ function Home() {
 
       </div>
 
-      <div className="home-image">
-
-        <img
-          src="/G.Vijayanandh-portfolio/Vijay.img.jpg"
-          alt="Vijayanandh"
-        />
-
-      </div>
+     <div className="profile">
+   <img src="/Vijay.img.jpg" alt="Profile" />
+</div>
 
     </section>
   );
