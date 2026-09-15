@@ -1,4 +1,5 @@
 import React from "react";
+import profileImage from "../assets/profile.jpg";
 
 function Home() {
   return (
@@ -52,10 +53,11 @@ function Home() {
 
       </div>
 
-     <div className="profile">
-   <img src="./Vijay.img.jpg" alt="Profile" />
-</div>
-
+        <img
+      src={profileImage}
+      alt="Vijayanandh"
+      className="profile"
+    />
     </section>
   );
 }
