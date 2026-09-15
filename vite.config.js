@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-<<<<<<< HEAD
+
   plugins: [
     react(),
 
@@ -38,8 +38,8 @@ export default defineConfig({
     })
   ]
 })
-=======
+
   plugins: [react()],
   base: '/G.Vijayanandh-portfolio/'
 })
->>>>>>> f5945c108bd7755ca4fe62ac1cdaa617ca0477bc
+
