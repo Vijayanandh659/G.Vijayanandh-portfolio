@@ -55,8 +55,8 @@ function Home() {
       <div className="home-image">
 
         <img
-          src="/src/assets/Vijay.img.jpg"
-          alt="Vijay Anandh"
+          src="/G.Vijayanandh-portfolio/Vijay.img.jpg"
+          alt="Vijayanandh"
         />
 
       </div>
