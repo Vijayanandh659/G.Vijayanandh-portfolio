@@ -9,7 +9,7 @@ function Home() {
 
         <p className="hello">Hello, I'm</p>
 
-        <h1>Vijayanandh G</h1>
+        <h1>VIJAYANANDH G</h1>
 
         <h2>Java Full Stack Developer</h2>
 
