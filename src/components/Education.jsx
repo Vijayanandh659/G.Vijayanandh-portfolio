@@ -35,7 +35,7 @@ function Education() {
           </p>
 
           <p>
-            Year: 2020 - 2022
+            Year: 2021 - 2022
           </p>
 
         </div>
