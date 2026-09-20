@@ -4,7 +4,7 @@ function Resume() {
   const downloadResume = () => {
     const link = document.createElement("a");
 
-    link.href = "/Vijayanandh.G.pdf.pdf";
+    link.href = "/Vijayanandh.G.pdf";
     link.download = "Vijayanandh Resume.pdf";
 
     document.body.appendChild(link);
