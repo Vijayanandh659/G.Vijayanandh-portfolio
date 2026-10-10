@@ -16,7 +16,7 @@ function Home() {
         <p className="home-description">
           I am a passionate fresher Java Full Stack Developer
           interested in building modern and responsive web applications
-          using Java, Spring Boot, React JS and MySQL.
+          using Java, Spring Boot , REST APIs, React JS , JavaScript , HTML , CSS and MySQL.
         </p>
 
         <div className="home-buttons">
