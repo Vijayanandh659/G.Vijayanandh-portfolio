@@ -25,7 +25,7 @@ function Home() {
             View Projects
           </a>
 
-          <a href="/Vijayanandh.G.pdf" className="btn secondary" download>
+          <a href="Vijayanandh.G.pdf" className="btn secondary" download>
             Download Resume
           </a>
 

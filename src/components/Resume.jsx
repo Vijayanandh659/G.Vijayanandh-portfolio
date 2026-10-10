@@ -4,8 +4,8 @@ function Resume() {
   const downloadResume = () => {
     const link = document.createElement("a");
 
-    link.href = "/Vijayanandh.G.pdf";
-    link.download = "Vijayanandh Resume.pdf";
+    link.href = "Vijayanandh.G.pdf";
+    link.download = "Vijayanandh.G.pdf";
 
     document.body.appendChild(link);
     link.click();
@@ -39,4 +39,4 @@ function Resume() {
   );
 }
 
-export default Resume;
+export default Resume; 
